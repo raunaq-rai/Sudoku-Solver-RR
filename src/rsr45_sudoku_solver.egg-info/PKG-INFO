@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: rsr45-sudoku-solver
-Version: 0.1.1
+Version: 0.1.2
 Summary: A command-line Sudoku solver using a backtracking algorithm.
 Home-page: https://github.com/raunaq-rai/Sudoku-Solver-RR.git
 Author: Raunaq Rai

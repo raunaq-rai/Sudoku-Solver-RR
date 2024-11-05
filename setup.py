@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="rsr45-sudoku_solver",
-    version="0.1.1",
+    version="0.1.2",
     author="Raunaq Rai",
     author_email="rsr45@cam.ac.uk",
     description="A command-line Sudoku solver using a backtracking algorithm.",
